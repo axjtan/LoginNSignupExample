@@ -15,7 +15,7 @@ With reference to:
 Clone the source code locally
 
 ```bash
-cd Desktop/ && git clone https://github.com/axjtan/https://github.com/axjtan/LoginNSignupExample.git
+cd Desktop/ && git clone https://github.com/axjtan/LoginNSignupExample.git
 cd LoginNSignupExample/ && npm install
 ```
 
